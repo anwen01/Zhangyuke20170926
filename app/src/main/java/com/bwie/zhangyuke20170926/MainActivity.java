@@ -80,11 +80,12 @@ public class MainActivity extends AppCompatActivity implements XListView.IXListV
 
     @Override
     public void onRefresh() {
-
     }
 
     @Override
     public void onLoadMore() {
 
     }
+
+    //修改。。。。。
 }
